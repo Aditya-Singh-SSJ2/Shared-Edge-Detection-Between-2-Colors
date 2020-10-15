@@ -1,4 +1,4 @@
-# Shared-Edge-Between-2-Colors
+# Shared-Edge-Between-2-Colors-Using-OPENCV-PYTHON
 This code takes two colours and then detect the shared edge between the two if any in an image.
 
 Libraries used:-
