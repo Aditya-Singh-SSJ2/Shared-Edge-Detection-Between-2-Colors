@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 
 # Input image here.
-img = cv2.imread('input.png')
+img = cv2.imread('Input.png')
 
 def nothing(x):
     pass
@@ -102,4 +102,4 @@ cv2.imshow("OUTPUT", Result)
 # Wait for user key press
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-cv2.imwrite("output.png",Result)
+cv2.imwrite("Output.png",Result)
