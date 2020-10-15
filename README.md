@@ -1,5 +1,6 @@
 # Shared-Edge-Between-2-Colors-Using-OPENCV-PYTHON
-This code takes two colours and then detect the shared edge between the two if any in an image.
+This script prompts a user to enter 2 ranges of color using the trackbars,
+and returns only the shared edges between the 2 colors if any in the input image.
 
 # Libraries used:-
 1. openCV2
