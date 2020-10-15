@@ -1,5 +1,5 @@
 # Shared-Edge-Between-2-Colors-Using-OPENCV-PYTHON
-This script prompts a user to enter 2 ranges of color using the trackbars,
+This script prompts the user to select 2 ranges of color using the trackbars,
 and returns only the shared edges between the 2 colors if any in the input image.
 
 # Libraries used:-
