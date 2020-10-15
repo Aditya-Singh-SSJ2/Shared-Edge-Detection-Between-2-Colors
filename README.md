@@ -7,3 +7,6 @@ This code takes two colours and then detect the shared edge between the two if a
 
 # Example: 
 The file input.png (attched along with the code) when passed through the code with user thresholding the blue and pink colour gives the output as output.png (attched along with the code).
+
+# Contact:
+linkedin.com/in/aditya-singh-243ba8197
