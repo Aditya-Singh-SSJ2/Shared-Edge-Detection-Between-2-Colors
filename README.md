@@ -1,6 +1,7 @@
 # Shared-Edge-Between-2-Colors-Using-OPENCV-PYTHON
-This script prompts the user to select 2 ranges of color using the trackbars,
-and returns only the shared edges between the 2 colors if any in the input image.
+This script prompts the user to select two ranges of color using the trackbars,
+and returns all the shared edges between the two colors if any in the input image.
+I have chosen blue and pink as an example (see Input.png and Output.png) and have successfully detected all the shared edges between them.
 
 # Libraries used:-
 1. openCV2
